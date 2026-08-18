@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bandisumanth1811-hybrid-version-of-rag-simple-and-agentic-using-mcp-badge.png)](https://mseep.ai/app/bandisumanth1811-hybrid-version-of-rag-simple-and-agentic-using-mcp)
+
 # Hybrid-version-of-RAG-Simple-and-Agentic-using-MCP
 # Git Assist AI
 
